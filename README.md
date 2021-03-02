@@ -92,7 +92,7 @@ This tutorial accomplishes two things:
     ---
     layout: post
     date:   2019-03-20
-    image: "/conflict_urbanism_sp2021/images/lastname_description2.png"
+    image: "/remapping-algeria-sp2021/images/lastname_description2.png"
     title:  "Provisional Title of Your Final Project"
     author: "Names Of Everyone In Your Group"
     ---
@@ -112,7 +112,7 @@ To update your post after you have made changes to your markdown file in your te
 2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
 
 3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared.
-URL: https://centerforspatialresearch.github.io/remapping-algeria_sp2021/
+URL: https://centerforspatialresearch.github.io/remapping-algeria-sp2021/
 
 
 ## Useful links: 
