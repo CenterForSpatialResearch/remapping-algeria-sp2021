@@ -11,8 +11,8 @@ INTRO HERE.
 #### A Gendered Bildungsroman  
 WRITING HERE.  
 
-
-![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1.jpg)  
+### Part 1: 1962-1972
+![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1_Outline.png)  
 Map 1  
 All maps © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors. Base map and data from OpenStreetMap and OpenStreetMap Foundation.  
 ![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
@@ -26,7 +26,11 @@ Map 3
 5. Assemblée Populaire Nationale  
 6. La Casbah  
 7. La Faculté centrale  
-  "QUOTATIONS FROM PART 1 HERE."
+  "QUOTATIONS FROM PART 1 HERE."  
+WRITING HERE.  
+
+### Part 2: 1972-1982  
+WRITING HERE.  
 
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
