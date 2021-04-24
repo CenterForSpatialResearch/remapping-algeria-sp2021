@@ -10,8 +10,15 @@ INTRO HERE.
 
 #### A Gendered Bildungsroman  
 WRITING HERE.  
-![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1.jpg) ![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
+
+
+![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1.jpg)  
+Map 1  
+All maps © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors. Base map and data from OpenStreetMap and OpenStreetMap Foundation.  
+![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
+Map 2
 ![Zoomed-in view on Ali's map of part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1_Casbah.jpg)  
+Map 3  
 1. Le Jardin d'Essai  
 2. Rue Belouizdad (Rue Belcourt)  
 3. La Grande Poste  
@@ -19,6 +26,7 @@ WRITING HERE.
 5. Assemblée Populaire Nationale  
 6. La Casbah  
 7. La Faculté centrale  
+  "QUOTATIONS FROM PART 1 HERE."
 
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
