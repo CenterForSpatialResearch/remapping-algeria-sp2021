@@ -14,14 +14,14 @@ In the case of *Bleu blanc vert*, one of the things that might be said to be its
 
 #### Map Information  
 ![Map Legend](/remapping-algeria-sp2021/images/Grabowski/OutlineLegend.png)  
-All maps © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors. Base map and data from OpenStreetMap and OpenStreetMap Foundation.  
+All base maps © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors. Base map and data from OpenStreetMap and OpenStreetMap Foundation.  
 Projection: Voirol 1879/Nord Algerie (ancienne), EPSG: 30493.
 
 #### A Gendered Bildungsroman  
 *Bleu blanc vert* tells both Ali and Lilas’s stories as they grow up over the course of thirty years. Beginning as young children and ending when they are married adults with a daughter of their own, and told in alternating chapters from Ali’s and Lilas’s points of view, the novel has in this sense a very traditional structure: that of the coming-of-age story or bildungsroman. In this section, I will compare maps the places that Ali and Lilas mention in each part of the novel. Each part spans ten years, with the first stretching from 1962 to 1972, the second from 1972 to 1982, and the third from 1982 to 1992.  
 
-Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and though they broadly share a concentration in the central areas of Algiers, they also differ from each other in several ways.
-###### Part 1: 1962-1972
+Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and though they broadly share a concentration in the central areas of Algiers, they also differ from each other in several ways.  
+**Part 1: 1962-1972**  
 ![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1Zoom.png)  
 **Map 1**  
 1. Le Jardin d'Essai  
@@ -32,18 +32,21 @@ Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and thou
 6. Mairie de Belouizdad  
 7. La faculté centrale  
 ![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
-Map 2
-![Zoomed-in view on Ali's map of part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1_Casbah.jpg)  
-Map 3  
-3. La Grande Poste  
-4. Boulevard Zighout Youcef  
-5. Assemblée Populaire Nationale  
-6. La Casbah  
-7. La Faculté centrale  
-  "QUOTATIONS FROM PART 1 HERE."  
+**Map 2**  
+1. La Grande Poste  
+2. Boulevard Zighout Youcef  
+3. Assemblée Populaire Nationale  
+4. La Casbah  
+5. Stade du 20 Août 1955/Stade du Ruisseau  
+6. La faculté centrale  
+7. L'hôpital Mustapha  
+8. Belouizdad/Belcourt  
+9. Cimetière Sidi M'hamed  
+10. Mausolée Sidi Abderrahmane  
+"QUOTATIONS FROM PART 1 HERE."  
 WRITING HERE.  
 
-###### Part 2: 1972-1982  
+**Part 2: 1972-1982**  
 WRITING HERE.  
 
 
