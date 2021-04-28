@@ -31,7 +31,9 @@ Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and thou
 5. Lycée Fodhil El Ouartilani  
 6. Mairie de Belouizdad  
 7. La faculté centrale  
-<a/>
+
+<br>  
+  
 ![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
 **Map 2**  
 1. La Grande Poste  
