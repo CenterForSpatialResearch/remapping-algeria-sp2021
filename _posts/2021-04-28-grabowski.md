@@ -23,7 +23,7 @@ Projection: Voirol 1879/Nord Algerie (ancienne), EPSG: 30493.
 Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and though they broadly share a concentration in the central areas of Algiers, they also differ from each other in several ways.  
 **Part 1: 1962-1972**  
 ![Map of Lilas's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Lilas1Zoom.png)  
-**Map 1**  
+**Map 1: Lilas in Part One**  
 1. Le Jardin d'Essai  
 2. Rue Belouizdad/Rue de Lyon  
 3. Belouizdad/Belcourt  
@@ -32,9 +32,8 @@ Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and thou
 6. Mairie de Belouizdad  
 7. La faculté centrale  
 <br>  
-
 ![Map of Ali's places in Part 1](/remapping-algeria-sp2021/images/Grabowski/Ali1.png)  
-**Map 2**  
+**Map 2: Ali in Part One**  
 1. La Grande Poste  
 2. Boulevard Zighout Youcef  
 3. Assemblée Populaire Nationale  
@@ -55,6 +54,7 @@ In the novel’s second part, however, the maps reveal a vast difference between
 
 **Part 2: 1972-1982**  
 ![Map showing the places mentioned by Ali in Part 2](/remapping-algeria-sp2021/images/Grabowski/Ali2.png)  
+**Map 3: Ali in Part Two**  
 1. Bab el Oued  
 2. La Brasserie des Facultés  
 3. Boulevard Ernesto Che Guevara  
@@ -66,6 +66,7 @@ In the novel’s second part, however, the maps reveal a vast difference between
 <br>  
 
 ![Map showing the places mentioned by Lilas in Part 2](/remapping-algeria-sp2021/images/Grabowski/Lilas2.png)  
+**Map 4: Lilas in Part Two**  
 1. La faculté centrale (la faculté de sciences humaines)  
 2. Conservatoire Central d'Alger  
 <br>  
@@ -77,6 +78,7 @@ In contrast, Lilas’s portion of this decade barely appears on the map at all. 
 From 1982 to 1992, however, this pattern shifts yet again, but in the opposite direction: the number and geographic range of places mentioned by Ali decreases, whereas both the number and the range of places mentioned by Lilas greatly increases.  
 
 ![Map showing the neighborhoods mentioned by Ali in Part 3](/remapping-algeria-sp2021/images/Grabowski/Ali3.png)  
+**Map 5: Ali in Part Three**  
 1. Bouquiniste de la rue Didouche (L'Étoile d'Or)  
 2. Cité universitaire de Ben Aknoun  
 3. Cimetière de Kouba (Cimetière Garidi)  
@@ -85,6 +87,7 @@ From 1982 to 1992, however, this pattern shifts yet again, but in the opposite d
 <br>  
 
 ![Map showing the neighborhoods mentioned by Lilas in Part 3](/remapping-algeria-sp2021/images/Grabowski/Lilas3_Neighborhoods.png)  
+**Map 6: Lilas in Part Three (Neighborhoods Mentioned)**
 1. Bab El Oued  
 2. Fort de l'Eau/Bordj El Kiffan  
 3. La Madrague/El Djamila  
@@ -94,6 +97,7 @@ From 1982 to 1992, however, this pattern shifts yet again, but in the opposite d
 <br>  
 
 ![Map showing the other places mentioned by Lilas in Part 3](/remapping-algeria-sp2021/images/Grabowski/Lilas3_Zoom.png)  
+**Map 7: Lilas in Part Three (Buildings and Streets)**  
 1. Mausolée Sidi Abderrahmane  
 2. Cimetière Sidi M'hamed  
 3. Place du Cheval/*Placet El Aoud*/Place des Martyrs  
@@ -109,6 +113,7 @@ From 1982 to 1992, however, this pattern shifts yet again, but in the opposite d
 <br>  
 
 ![Animated GIF of Lilas's places throughout the novel](/remapping-algeria-sp2021/images/Grabowski/Lilas.gif)  
+**Map 8: Lilas Over Time**  
 
 What to make of this reversal? The evolution of Lilas’s maps show compression followed by expansion. Juxtaposed with the previous map, it becomes possible to view Lilas’s extensive urban explorations in the first chapter of Part Three as a reaction to and resistance against the way she was pushed out of public space after her marriage. Beyond her Algiers walks, Lilas’s chapters in Part Three again include many places that I could not map here, but this time for a different reason: they were beyond the scope of this map. Not only does she mention “Le domaine Bouchaoui” and “El Asnam,” to places in Algeria but outside Algiers, she also narrates her trip with Ali to Paris:  
 
@@ -119,6 +124,7 @@ Not only is Lilas exploring and claiming public space, she is doing it in Paris 
 In contrast, Ali’s map in this section shows a slight shrinkage compared to his map in Part Two while still remaining comparatively constant. Over the course of the three sections of the novel, his spatial references are thus much less variable than those of Lilas.  
 
 ![Animated GIF of Ali's places throughout the novel](/remapping-algeria-sp2021/images/Grabowski/Ali.gif)  
+**Map 9: Ali Over Time**  
 
 It is also during this section that Ali begins referencing more places that cannot be mapped, such as his father’s house with his new wife (described as “Quelque part sur les hauteurs d’Alger. Quartier résidentiel” (198)) and the mosque and cemetery where they go for his funeral (202). While it is true, then, that over the course of the novel Ali is generally more overtly concerned with politics and Lilas with more “domestic” matters, their spatial trajectories over the course of the novel actually reveal Lilas to have the more expansive and varied experience of the public spaces of the city. Though gender mediates and at times prevents her experience of the city, it is her rebellion against that mediation that enables Lilas to connect more deeply to the city than Ali does at any point in the novel.  
 
@@ -127,8 +133,10 @@ It is also during this section that Ali begins referencing more places that cann
 It is perhaps fitting, then, that Lilas herself offers an interpretation of the city as a text during her explorations of it; a closer look at her map reveals the ways in which it is like a text. While taking her walks in Algiers, Lilas reflects, “Toute l’histoire d’Alger est écrite dans ses rues” (189). In a previous version of this project, I discussed the multilayered nature of writing about Algiers, noting that for Lilas, the act of walking through the city brings up not only urban history of what places used to look like or used to be named, but also literary history of how places used to be described (Grabowski 3). The mapping of places mentioned in the novel makes some of these hidden layers rise to the surface. First of all, the process of mapping itself occasionally required some uncovering of layers. For example, Ali references “le Monoprix de Belcourt” twice in the novel, first when his mother is waiting in line for groceries, and again when it is burned during unrest in the city (133, 256). Mapping this location required unearthing the building that it has since become, a bank (“Le Monoprix de Belcourt se tenait là”). Similarly, the Galeries algériennes are now the Musée public national d’art modern et contemporain d’Alger (“Histoire du bâtiment”), and the “bouquiniste de la rue Didouche” from whom Lilas buys her books has passed away, though his bookstore is still there (A., “Hommage à Ami Mouloud”). The historical layers are also sometimes commented upon by the characters themselves, as Lilas does in Part One, and are rendered visible by a comparison of the present-day map of Algiers with a colonial one produced by the French.  
 
 ![Map of Ali and Lilas's places on top of a colonial-era map of Algiers](/remapping-algeria-sp2021/images/Grabowski/all_historical.png)  
+**Map 10: Ali, Lilas, and Colonial Algiers (and Beyond)**
 
 ![Map of Ali and Lilas's places on top of a colonial-era map of Algiers, zoomed in to Belouizdad](/remapping-algeria-sp2021/images/Grabowski/BelouizdadHistZoom.png)  
+**Map 11: Belouizdad/Belcourt**  
 1. El Mouradia  
 2. Monument du Moudjahid  
 3. Riadh el Feth  
@@ -136,6 +144,7 @@ It is perhaps fitting, then, that Lilas herself offers an interpretation of the 
 <br>  
 
 ![Map of Ali and Lilas's places on top of a colonial-era map of Algiers, zoomed in to the Casbah](/remapping-algeria-sp2021/images/Grabowski/CasbahHistZoom.png)  
+**Map 12: La Casbah**  
 1. Place du Cheval/*Placet El Aoud*/Place des Martyrs  
 2. Mausolée Sidi Abderrahmane  
 3. Assemblé Populaire Nationale  
