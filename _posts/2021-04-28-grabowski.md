@@ -78,6 +78,7 @@ In contrast, Lilas’s portion of this decade barely appears on the map at all. 
 
 From 1982 to 1992, however, this pattern shifts yet again, but in the opposite direction: the number and geographic range of places mentioned by Ali decreases, whereas both the number and the range of places mentioned by Lilas greatly increases.  
 
+**Part 3: 1982-1992**  
 ![Map showing the neighborhoods mentioned by Ali in Part 3](/remapping-algeria-sp2021/images/Grabowski/Ali3.png)  
 **Map 5: Ali in Part Three**  
 1. Bouquiniste de la rue Didouche (L'Étoile d'Or)  
