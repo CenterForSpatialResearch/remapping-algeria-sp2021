@@ -76,11 +76,12 @@ In contrast, Lilas’s portion of this decade barely appears on the map at all. 
 
 From 1982 to 1992, however, this pattern shifts yet again, but in the opposite direction: the number and geographic range of places mentioned by Ali decreases, whereas both the number and the range of places mentioned by Lilas greatly increases.  
 
-ALI MAP  
+![Map showing the neighborhoods mentioned by Ali in Part 3](/remapping-algeria-sp2021/images/Grabowski/Ali3.png)  
 1. Bouquiniste de la rue Didouche (L'Étoile d'Or)  
 2. Cité universitaire de Ben Aknoun  
-3. Cimetière de Kouba  
+3. Cimetière de Kouba (Cimetière Garidi)  
 4. Monoprix de Belcourt/Banque Extérieure d'Algérie (today)  
+5. Belouizdad/Belcourt  
 <br>  
 
 ![Map showing the neighborhoods mentioned by Lilas in Part 3](/remapping-algeria-sp2021/images/Grabowski/Lilas3_Neighborhoods.png)  
@@ -92,7 +93,7 @@ ALI MAP
 6. El Mouradia  
 <br>  
 
-LILAS ZOOMED IN MAP  
+![Map showing the other places mentioned by Lilas in Part 3](/remapping-algeria-sp2021/images/Grabowski/Lilas3_Zoom.png)  
 1. Mausolée Sidi Abderrahmane  
 2. Cimetière Sidi M'hamed  
 3. Place du Cheval/*Placet El Aoud*/Place des Martyrs  
@@ -136,6 +137,9 @@ Lilas’s ultimate identification of Algiers as a woman in this chapter suggests
 #### Conclusion: Postcolonial Surface Reading?  
 
 Mapping the locations mentioned in *Bleu blanc vert*, while seemingly an example of surface reading—the process, after all, consisted of scanning the entire text for place names, seemingly antithetical to the notion of close reading—ultimately proved the impossibility of such a reading of this novel and city in particular. Best and Marcus define one of the many types of surface reading as “critical description,” in which “depth is not to be found outside the text or beneath its surface (as its context, horizon, unconscious, or history); rather, depth is continuous with surface and is thus an effect of immanence” (Best and Marcus 11). Mapping this postcolonial novel, however, has shown that in this instance, depth (“context, horizon, unconscious, or history”), rather than being “continuous with surface,” instead is the very surface itself. In Ali and Lilas’s Algiers, the surface does not exist and is rather a series of different historical and representational layers that bleed through each other. Every place name contains the possibility of a different past or future name, whether or not the different name is explicitly evoked in the text. In the Algerian context, and perhaps more broadly in the postcolonial context, the idea of surface reading becomes inherently political, evoking simultaneously colonial history and its aftermath in the present and the future.  
+
+
+
 
 #### Works Cited  
 A., Yakine. “Hommage à Ami Mouloud, l’éternel bouquiniste de la rue Didouche Mourad.” 23 September 2016, *Algérie 360*, [https://www.algerie360.com/hommage-a-ami-mouloud-leternel-bouquiniste-de-la-rue-didouche-mourad/](https://www.algerie360.com/hommage-a-ami-mouloud-leternel-bouquiniste-de-la-rue-didouche-mourad/). Accessed 28 April 2021.   
