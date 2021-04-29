@@ -47,7 +47,6 @@ Maps 1 and 2 show the locations mentioned by Ali and Lilas in Part One, and thou
 10. Mausolée Sidi Abderrahmane  
 <br>  
 
-"QUOTATIONS FROM PART 1 HERE."  
 Both Ali and Lilas spend the years from 1962 to 1972 in the neighborhood of Belouizdad and their apartment building in it. This trend fits well into the traditional idea of a coming-of-age story: as children and young adults, they stay close to home before growing up and venturing out into the wider world. However, even in this early period, the maps of the places they mention show a difference in geographic range: Ali’s map includes a wider range of places, either visited himself (as in the protest that marched from “la Grande Poste” to the Assemblée Populaire Nationale (31)) or only mentioned (“la Casbah,” the area where, Ali learns, his older brother has visited “les filles” (51)). Politics appears in Lilas’s map as well, but reflected in a more subtle way; instead of a protest in front of a government building, we learn about how the events of the war, finished just before the start of the novel, affected Lilas’s family’s, specifically the places where they were and were not able to live: “Et c’est une femme qui vivait seule dans un quartier arabe qui est venue habiter dans notre appartement. On nous a échangés contre elle. Arabes contre Français. C’était une Française… Et pendant tout ce temps, on a habité chez elle. Dans sa maison. Pendant deux mois. En plein milieu du quartier arabe, juste à côté du nôtre. On était séparés par le Jardin d’Essai. C’était la frontière… C’est là-bas que j’ai vu mon premier mort” (39). Overall, while Ali’s map extends further than Lilas’s in the beginning of the novel, political context and daily, domestic life intertwine for both of them during this period.  
 
 The most important place of the novel—the apartment building where Ali, Lilas, and their families live—does not appear on the map, either in this first section or at any point. Though both Ali and Lilas describe the building in seemingly specific terms, they do not provide enough information to pin it down on a map of the city. For example, we know from Ali that “On est au bâtiment A. Huitième étage” (18) and from Lilas that it is part of an apartment complex: “C’est que notre immeuble est grand. Douze étages pour les deux bâtiments, A et B, et six étages pour le C. Avec deux appartements à chaque palier et trois pour le C, ça fait beaucoup” (21). We further know from Lilas that the building is on the rue Belouizdad: “On a changé d’adresse. On a changé de maison. Mais on est toujours dans le même immeuble. Maintenant on habite dans l’appartement de madame Lill. Et ce n’est plus la même adresse puisque notre rue s’appelle maintenant rue Belouizdad. Avant c’était la rue de Lyon” (52). In this quotation Lilas points out the many-layered nature of Algiers’s public space, as I will discuss further later on, but she also simultaneously locates and does not locate the apartment building in the city. This important place, the site of so much of the scenes of the novel, does not appear on the novel’s map. Franco Moretti admits that maps cannot work for everything in literature, calling such moments “un-mappable forms …and these setbacks, disappointing at first, are actually the sign of a method still in touch with reality: geography is a useful tool, yes, but does not explain *everything*” (Moretti 53, emphasis in original). Perhaps, then, the “un-mappable” nature of the apartment building reflects the fact that its specific location, as an essentially private space, is not very important in contrast to the locations of the public spaces mentioned elsewhere. It is less a location, perhaps, than the center from which all other locations are defined.  
@@ -62,7 +61,7 @@ In contrast, Lilas’s portion of this decade barely appears on the map at all. 
 From 1982 to 1992, however, this pattern shifts yet again, but in the opposite direction: the number and geographic range of places mentioned by Ali decreases, whereas both the number and the range of places mentioned by Lilas greatly increases.  
 
 MAPS HERE  
-GIF HERE  
+![Animated GIF of Lilas's places throughout the novel](/remapping-algeria-sp2021/images/Grabowski/Lilas.gif)  
 
 What to make of this reversal? The evolution of Lilas’s maps show compression followed by expansion. Juxtaposed with the previous map, it becomes possible to view Lilas’s extensive urban explorations in the first chapter of Part Three as a reaction to and resistance against the way she was pushed out of public space after her marriage. Beyond her Algiers walks, Lilas’s chapters in Part Three again include many places that I could not map here, but this time for a different reason: they were beyond the scope of this map. Not only does she mention “Le domaine Bouchaoui” and “El Asnam,” to places in Algeria but outside Algiers, she also narrates her trip with Ali to Paris:  
 
@@ -71,7 +70,8 @@ What to make of this reversal? The evolution of Lilas’s maps show compression 
 WRITING HERE.
 
 In contrast, Ali’s map in this section shows a slight shrinkage compared to his map in Part Two while still remaining comparatively constant. Over the course of the three sections of the novel, his spatial references are thus much less variable than those of Lilas.  
-ALI GIF HERE  
+
+![Animated GIF of Ali's places throughout the novel](/remapping-algeria-sp2021/images/Grabowski/Ali.gif)  
 
 It is also during this section that Ali begins referencing more places that cannot be mapped, such as his father’s house with his new wife (described as “Quelque part sur les hauteurs d’Alger. Quartier résidentiel” (198)) and the mosque and cemetery where they go for his funeral (202). While it is true, then, that over the course of the novel Ali is generally more overtly concerned with politics and Lilas with more “domestic” matters, their spatial trajectories over the course of the novel actually reveal Lilas to have the more expansive and varied experience of the public spaces of the city. Though gender mediates and at times prevents her experience of the city, it is her rebellion against that mediation that enables Lilas to connect more deeply to the city than Ali does at any point in the novel.  
 
@@ -118,49 +118,3 @@ Map of Algiers, Algeria. *OpenStreetMap*, 2021, [www.openstreetmap.org](www.open
 MapTiler Team. “EPSG:30493.” *EPSG.io: Coordinate Systems Worldwide*, [http://epsg.io/30493](http://epsg.io/30493).  Accessed 15 March 2021.  
 
 Société des plans régulateurs de villes (Paris). “Ville d’Alger / dressé par la Société des plans régulateurs de villes.” 1930. *Gallica*, Bibliothèque nationale de France, 2019, [https://gallica.bnf.fr/ark:/12148/btv1b53179735w](https://gallica.bnf.fr/ark:/12148/btv1b53179735w). Accessed 28 March 2021.  
-
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
-
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
-
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
-
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
-
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/remapping-algeria-sp2021/images/sample_image.png)
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
-
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
