@@ -114,7 +114,7 @@ What to make of this reversal? The evolution of Lilas’s maps show compression 
 
 > À chaque pas, j’ai l’impression de tourner les pages d’un livre que j’aurais déjà lu, de retrouver les mots et les images dont je me suis nourrie depuis si longtemps. Le pont Mirabeau, la Seine, le boulevard Saint-Michel, le café de Flore, les jardins du Luxembourg, les Halles, tous ces lieux me replongent dans mes lectures, dans des séquences de films dont je reconnais les décors. Et c’est guidée par Verlaine, Hugo, Zola, Balzac, Baudelaire, Simone de Beauvoir, Modiano et bien d’autres que je déambule dans la ville. (250)  
 
-WRITING HERE.
+Not only is Lilas exploring and claiming public space, she is doing it in Paris in addition to Algiers, and simultaneously reading the city as a text, just as she did in Algiers (which I will discuss further in the next section).  
 
 In contrast, Ali’s map in this section shows a slight shrinkage compared to his map in Part Two while still remaining comparatively constant. Over the course of the three sections of the novel, his spatial references are thus much less variable than those of Lilas.  
 
@@ -124,7 +124,22 @@ It is also during this section that Ali begins referencing more places that cann
 
 #### Map as Text, Text as Map  
 
-It is perhaps fitting, then, that Lilas herself offers an interpretation of the city as a text during her explorations of it; a closer look at her map reveals the ways in which it is like a text. While taking her walks in Algiers, Lilas reflects, “Toute l’histoire d’Alger est écrite dans ses rues” (189). In a previous version of this project, I discussed the multilayered nature of writing about Algiers, noting that for Lilas, the act of walking through the city brings up not only urban history of what places used to look like or used to be named, but also literary history of how places used to be described (Grabowski 3). The mapping of places mentioned in the novel makes some of these hidden layers rise to the surface. First of all, the process of mapping itself occasionally required some uncovering of layers. For example, Ali references “le Monoprix de Belcourt” twice in the novel, first when his mother is waiting in line for groceries, and again when it is burned during unrest in the city (133, 256). Mapping this location required unearthing the building that it has since become, a bank (“Le Monoprix de Belcourt se tenait là”). Similarly, the Galeries algériennes are now the Musée public national d’art modern et contemporain d’Alger (“Histoire du bâtiment”), and the “bouquiniste de la rue Didouche” from whom Lilas buys her books has passed away, though his bookstore is still there (A., “Hommage à Ami Mouloud”). The historical layers are also sometimes commented upon by the characters themselves, as Lilas does in Part One, and are rendered visible by a comparison of the present-day map of Algiers with a colonial one produced by the French. MAP EXAMPLES HERE.  
+It is perhaps fitting, then, that Lilas herself offers an interpretation of the city as a text during her explorations of it; a closer look at her map reveals the ways in which it is like a text. While taking her walks in Algiers, Lilas reflects, “Toute l’histoire d’Alger est écrite dans ses rues” (189). In a previous version of this project, I discussed the multilayered nature of writing about Algiers, noting that for Lilas, the act of walking through the city brings up not only urban history of what places used to look like or used to be named, but also literary history of how places used to be described (Grabowski 3). The mapping of places mentioned in the novel makes some of these hidden layers rise to the surface. First of all, the process of mapping itself occasionally required some uncovering of layers. For example, Ali references “le Monoprix de Belcourt” twice in the novel, first when his mother is waiting in line for groceries, and again when it is burned during unrest in the city (133, 256). Mapping this location required unearthing the building that it has since become, a bank (“Le Monoprix de Belcourt se tenait là”). Similarly, the Galeries algériennes are now the Musée public national d’art modern et contemporain d’Alger (“Histoire du bâtiment”), and the “bouquiniste de la rue Didouche” from whom Lilas buys her books has passed away, though his bookstore is still there (A., “Hommage à Ami Mouloud”). The historical layers are also sometimes commented upon by the characters themselves, as Lilas does in Part One, and are rendered visible by a comparison of the present-day map of Algiers with a colonial one produced by the French.  
+
+![Map of Ali and Lilas's places on top of a colonial-era map of Algiers](/remapping-algeria-sp2021/images/Grabowski/all_historical.png)  
+
+![Map of Ali and Lilas's places on top of a colonial-era map of Algiers, zoomed in to Belouizdad](/remapping-algeria-sp2021/images/Grabowski/BelouizdadHistZoom.png)  
+1. El Mouradia  
+2. Monument du Moudjahid  
+3. Riadh el Feth  
+4. Lycée Fodhil El Ouartilani  
+<br>  
+
+![Map of Ali and Lilas's places on top of a colonial-era map of Algiers, zoomed in to the Casbah](/remapping-algeria-sp2021/images/Grabowski/CasbahHistZoom.png)  
+1. Place du Cheval/*Placet El Aoud*/Place des Martyrs  
+2. Mausolée Sidi Abderrahmane  
+3. Assemblé Populaire Nationale  
+<br>  
 
 But in Part Three, the layers she observes are literary as much as they are historical. According to Grabar, the Casbah has been a particular site of French colonial and orientalist fantasy: “The French saw the Casbah as primitive, mysterious and exotic; to them, it was a place that represented Muslim Algerian society as a whole” (Grabar 392). As we saw, the earliest mention of the Casbah in the novel, by Ali, associates it still with sex (Bey 51). In Lilas’s explorations of the city, she firmly rejects this fantasy: “Je ne veux pas écouter les voix de ceux qui racontent les soirées parfumées de jasmin et les nuits parcourues d’airs andalous et de frôlements subreptices. Ceux qui évoquent à mi-voix les femmes enfermées dans les patios ombragés et celles qui s’aventurent craintivement dans les rues, rasant les murs, revêtues d’un voile qui les fait ressembler à des fantômes” (186). But she also crafts a new layer of her own, adding on top of the palimpsest’s layers:  
 
