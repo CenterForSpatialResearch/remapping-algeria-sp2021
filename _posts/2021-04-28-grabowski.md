@@ -1,8 +1,8 @@
 ---
 layout: post
-date:   2021-04-24
-image: "/remapping-algeria-sp2021/images/Grabowski_PracticeThumbnail.jpg"
-title:  "Title of my project"
+date:   2021-04-29
+image: "/remapping-algeria-sp2021/images/Grabowski/GrabowskiThumbnail.png"
+title:  "City, Map, Text: Postcolonial Surface Reading in *Bleu blanc vert*"
 author: "Eleanor Grabowski"
 ---
 #### Introduction: Why Map a Novel?   
