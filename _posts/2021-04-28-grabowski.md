@@ -52,15 +52,61 @@ Both Ali and Lilas spend the years from 1962 to 1972 in the neighborhood of Belo
 The most important place of the novel—the apartment building where Ali, Lilas, and their families live—does not appear on the map, either in this first section or at any point. Though both Ali and Lilas describe the building in seemingly specific terms, they do not provide enough information to pin it down on a map of the city. For example, we know from Ali that “On est au bâtiment A. Huitième étage” (18) and from Lilas that it is part of an apartment complex: “C’est que notre immeuble est grand. Douze étages pour les deux bâtiments, A et B, et six étages pour le C. Avec deux appartements à chaque palier et trois pour le C, ça fait beaucoup” (21). We further know from Lilas that the building is on the rue Belouizdad: “On a changé d’adresse. On a changé de maison. Mais on est toujours dans le même immeuble. Maintenant on habite dans l’appartement de madame Lill. Et ce n’est plus la même adresse puisque notre rue s’appelle maintenant rue Belouizdad. Avant c’était la rue de Lyon” (52). In this quotation Lilas points out the many-layered nature of Algiers’s public space, as I will discuss further later on, but she also simultaneously locates and does not locate the apartment building in the city. This important place, the site of so much of the scenes of the novel, does not appear on the novel’s map. Franco Moretti admits that maps cannot work for everything in literature, calling such moments “un-mappable forms …and these setbacks, disappointing at first, are actually the sign of a method still in touch with reality: geography is a useful tool, yes, but does not explain *everything*” (Moretti 53, emphasis in original). Perhaps, then, the “un-mappable” nature of the apartment building reflects the fact that its specific location, as an essentially private space, is not very important in contrast to the locations of the public spaces mentioned elsewhere. It is less a location, perhaps, than the center from which all other locations are defined.  
 
 In the novel’s second part, however, the maps reveal a vast difference between the spatial dimensions of Ali’s and Lilas’s sections. In a previous project, we discussed one of the ways in which the novel is divided along gender lines: Ali often comments on large, external political events, whereas Lilas more often comments on women’s lives (O’Neill, Grabowski, Chen 2-3). Each character’s respective map for the ten years from 1972 to 1982 reveals that this difference is, in this section of the novel, reflected spatially.  
+
 **Part 2: 1972-1982**  
-MAPS HERE.  
+![Map showing the places mentioned by Ali in Part 2](/remapping-algeria-sp2021/images/Grabowski/Ali2.png)  
+1. Bab el Oued  
+2. La Brasserie des Facultés  
+3. Boulevard Ernesto Che Guevara  
+4. Monoprix de Belcourt/Banque Extérieure d'Algérie (today)  
+5. Belouizdad/Belcourt
+6. Galeries algériennes/Musée public national d'art moderne et contemporain d'Alger (today)  
+7. Alger-Plage  
+8. Champ de manœuvres  
+<br>  
+
+![Map showing the places mentioned by Lilas in Part 2](/remapping-algeria-sp2021/images/Grabowski/Lilas2.png)  
+1. La faculté centrale (la faculté de sciences humaines)  
+2. Conservatoire Central d'Alger  
+<br>  
+
 In this period, Ali’s map expands from his previous range, with mentioned neighborhoods stretching from Bab el Oued to Alger-Plage. The types of places that are mentioned are varied, but include his work as a lawyer (“l’immeuble de Bab El Oued où je me suis installé” (Bey 117)), a bus stop (“Champ de manœuvres” (136)), a café (“la brasserie des Facultés” (131)), a street (“un très grand boulevard” named after Che Guevera (132)), and an art museum (“Galeries algériennes de la rue Ben M’hidi” (133)). These places have one thing in common: they are all public rather than private. Politics in this public sphere reappears as well, as in the section where Ali comments on the global revolutionary politics that have come to be represented in Algiers’s streets and cafes: “Ainsi dans les rues d’Alger on croise, presque à chaque coin de rue, des hommes et des femmes venus d’ailleurs, de toutes les parties du monde, pour trouver refuge dans un pays qu’on dit être le phare du Tiers-Monde ou La Mecque de la Révolution… Prendre un café ou une bière à la brasserie des Facultés à la table voisine de celle de Kathleen et Eldridge Cleaver ne nous étonne même plus” (131). Ali’s life in Algiers continually bleeds into public, and often political, space.  
 
 In contrast, Lilas’s portion of this decade barely appears on the map at all. She still mentions some places (though significantly fewer than Ali does), but several prove to be impossible to map: the apartment building, for example, or the health center where she works, which is not given a name and only described as being “à quelques centaines de mètres de chez moi” (124). Lilas mentions only two places that I was able to pin down on the map: “la fac de sciences humaines,” where she studies and which we know from a previous Ali chapter is part of “la fac centrale” (124, 90) and the music conservatory where her brother Samir briefly enrolls (141). The result of this shift is that Lilas all but disappears from the map of Algiers after having started out on relatively equal footing with Ali. By showing visually how the more private or domestic spaces she tends to occupy in this section are not able to be mapped, the map both predicts and reflects the feelings of oppressiveness and suffocation she experiences in her marriage and her ultimate disappearance from public space into private during this section, exemplified by its final chapter, which begins “Il y a les sourires de mon enfant. Il y a les pleurs de mon enfant” and concludes “Il y a à présent, et pour tout présent, Alya, et rien d’autre. Rien d’autre? Non, rien d’autre, j’en suis sûre aujourd’hui” (181, 182). This chapter marks a tonal and stylistic shift from all of Lilas’s preceding chapters, which are more traditionally narrative, but the map reveals that this shift, rather than being a sudden breakdown, is instead a gradual process of withdrawal, or perhaps erasure, from public space.  
 
 From 1982 to 1992, however, this pattern shifts yet again, but in the opposite direction: the number and geographic range of places mentioned by Ali decreases, whereas both the number and the range of places mentioned by Lilas greatly increases.  
 
-MAPS HERE  
+ALI MAP  
+1. Bouquiniste de la rue Didouche (L'Étoile d'Or)  
+2. Cité universitaire de Ben Aknoun  
+3. Cimetière de Kouba  
+4. Monoprix de Belcourt/Banque Extérieure d'Algérie (today)  
+<br>  
+
+![Map showing the neighborhoods mentioned by Lilas in Part 3](/remapping-algeria-sp2021/images/Grabowski/Lilas3_Neighborhoods.png)  
+1. Bab El Oued  
+2. Fort de l'Eau/Bordj El Kiffan  
+3. La Madrague/El Djamila  
+4. La Casbah  
+5. Bologhine/St. Eugène  
+6. El Mouradia  
+<br>  
+
+LILAS ZOOMED IN MAP  
+1. Mausolée Sidi Abderrahmane  
+2. Cimetière Sidi M'hamed  
+3. Place du Cheval/*Placet El Aoud*/Place des Martyrs  
+4. Bois des Arcades  
+5. Jardin d'Essai  
+6. Marché de la Lyre  
+7. Marché Meissonnier  
+8. Rue des Libérés/Rue des Colons  
+9. Mémorial du Moudjahid  
+10. Riadh el Feth  
+11. Rue d'Isly/Rue Ben M'hidi  
+12. Rue Michelet/Rue Didouche  
+<br>  
+
 ![Animated GIF of Lilas's places throughout the novel](/remapping-algeria-sp2021/images/Grabowski/Lilas.gif)  
 
 What to make of this reversal? The evolution of Lilas’s maps show compression followed by expansion. Juxtaposed with the previous map, it becomes possible to view Lilas’s extensive urban explorations in the first chapter of Part Three as a reaction to and resistance against the way she was pushed out of public space after her marriage. Beyond her Algiers walks, Lilas’s chapters in Part Three again include many places that I could not map here, but this time for a different reason: they were beyond the scope of this map. Not only does she mention “Le domaine Bouchaoui” and “El Asnam,” to places in Algeria but outside Algiers, she also narrates her trip with Ali to Paris:  
